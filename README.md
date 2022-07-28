@@ -32,7 +32,8 @@ pip install -r requirements.txt
 You must create a .env file for project configuration. It must contain following variables:
 
 ```
-
+# REST Countries API URL
+URL_API_REST_COUNTRIES=https://restcountries.com/v3.1/all
 
 ```
 
